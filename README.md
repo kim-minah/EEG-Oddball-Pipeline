@@ -1,7 +1,7 @@
 # ERP Processing and Spectral Decomposition
 
 ## Overview
-This repository contains a three‑stage Jupyter Notebook workflow for preprocessing electrophysiology (ERP) data, performing time–frequency / spectral decomposition, and generating statistics and figures. A central `config.py` file defines paths and experiment‑level parameters so the pipeline stays consistent across runs. fileciteturn1file0
+This repository contains a three‑stage Jupyter Notebook workflow for preprocessing electrophysiology (ERP) data, performing time–frequency / spectral decomposition, and generating statistics and figures. A central `config.py` file defines paths and experiment‑level parameters so the pipeline stays consistent across runs. 
 
 ## Repository Contents
 ```
